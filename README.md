@@ -1,5 +1,5 @@
 # ☆ kymadogg ☆
-Robotics Engineer | Digital Artist | Hobbyist PCB Designer | Power Wheels Modder | Grad Student @ WPI
+Robotics Engineer | Digital Artist | Hobbyist PCB Designer | Grad Student @ WPI
 ### My Favorites:
 <div class="image-container">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg"  width="50" height="50"/>
